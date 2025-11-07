@@ -1,4 +1,4 @@
-# 💧 Bài tập Tính Tiền Nước - Educational Repository
+# Educational Repository
 
 ## 📢 Tuyên bố Phi Lợi Nhuận
 
